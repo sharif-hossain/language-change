@@ -1,0 +1,15 @@
+ {
+    "Thanks" : {
+       "1": "Thank you"
+     },
+     "Why" :{
+         "1":"for watching this video"
+     },
+     "Welcome":{
+        "1":"Welcome to dynamic route"
+    },
+    "Navigation":{
+        "1":"Navigate"
+    }
+    
+ }
